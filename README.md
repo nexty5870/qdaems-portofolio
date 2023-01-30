@@ -2,7 +2,7 @@
 
 This is my initial attempt of making my portofolio,
 
-###⭐️ Stack ⭐️
+### ⭐️ Stack ⭐️
 
 - NextJS
 - TailwindCSS
