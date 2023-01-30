@@ -1,28 +1,19 @@
-# Create T3 App
+# My Portofolio
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+This is my initial attempt of making my portofolio,
 
-## What's next? How do I make an app with this?
+###⭐️ Stack ⭐️
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+- NextJS
+- TailwindCSS
+- TypeScript
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+![Portofolio](https://media.cleanshot.cloud/media/50686/9cEcgB1x3wKMau2E6tssFGjX9y3j8abgaqcWwKef.jpeg?Expires=1675137018&Signature=bvZJTLE6y-UwvCmZ5DHt~0sOmYBjwHx2RjWckp~6~NWA2HfwbceVjD8rAmQIsuRYpq0vBmbFozXtm1t06AkoFHro6iXNWtG~mrjmH9-00L7QDUQOUmcRo1mvnvo2KOFL6swC7HZUfJuz~pNIgqJKI38sC2q5fefPtQ1tA8TTVtvyjjtV89hKXvLgk23njRSTGnQlx8rXmDyl2-SVQqfDWRGO2JPPnKpaNeck0TJde6ntchHu6jtlqq4k~piL2oKWLtU-45Gv12VFkJNotU8hutIXoz5zwynJ9nfP9KZH~zThAztj53v47Ion4yd~nr9JbGk340ptpOdVRZCFJWOv3g__&Key-Pair-Id=K269JMAT9ZF4GZ)
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+### What's next?
 
-## Learn More
+I'm planning to work on making the CMS using Sanity to test and work on integration.
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+### Learn More
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
-
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
-
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+I have decided to use [T3 stack](https://create.t3.gg/) for the init of the app
