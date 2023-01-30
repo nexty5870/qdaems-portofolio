@@ -43,7 +43,7 @@ function About({}: Props) {
           from Network Engineer to Project Manager and now holding the position
           of Vice President Operations EMEA & APAC. I'm managing an
           international team. I have a wide variety of skills from networking to
-          project mananagement to DevOps (K8s / Cloud Architecture / Linux). I
+          project management to DevOps (K8s / Cloud Architecture / Linux). I
           like working under pressure & meeting deadlines. I'm a self sufficient
           person, decision maker eager to learn new things.
           <br />
