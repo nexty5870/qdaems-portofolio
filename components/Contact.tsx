@@ -1,6 +1,7 @@
 import React from "react";
 import { IconPhoneIncoming, IconMapPin, IconMail } from "@tabler/icons-react";
-import { useForm, SubmitHandler } from "react-hook-form";
+import type { SubmitHandler } from "react-hook-form";
+import { useForm } from "react-hook-form";
 
 type Inputs = {
   name: string;
@@ -24,7 +25,7 @@ const Contact = (props: Props) => {
       <div className="flex flex-col space-y-10">
         <h4 className="text-center text-4xl font-semibold">
           I have a passion for creating.{" "}
-          <span className="underline decoration-[#A741D4]"> Letts Talk.</span>
+          <span className="underline decoration-[#A741D4]"> Lets Talk.</span>
         </h4>
         <div className="space-y-10">
           <div className="flex items-center justify-center space-x-5">
